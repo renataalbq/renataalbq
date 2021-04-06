@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-albuquerque-593787175/)](https://www.linkedin.com/in/fagnerpsantos/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/renata.albqrq/)
 
 <!--
 **renataalbq/renataalbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=renataalbq)
