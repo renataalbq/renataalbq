@@ -5,6 +5,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renata-albuquerque-593787175/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/renata.albqrq/)
+[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renataalbq1@gmail.com">](mailto:renataalbq1@gmail.com)
 
 <!--
 **renataalbq/renataalbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
