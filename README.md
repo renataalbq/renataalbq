@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=renataalbq&color=006bed)
+
 ##
 <div style="display: inline-block, margin:1rem 0" >
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
 ##  
 
 
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalbq&hide=html&layout=compact&theme=dracula&hide_border=true" />
+<p>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalbq&layout=compact&theme=dracula&hide_border=true" />
   <img width="405px" src="https://github-readme-stats.vercel.app/api?username=renataalbq&show_icons=true&theme=dracula&hide_border=true" alt="renataalbq" />
 </p>
