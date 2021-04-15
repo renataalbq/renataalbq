@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=renataalbq&theme=dracula" alt="renataalbq"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalbq&layout=compact&theme=dracula" alt="renataalbq"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalbq&theme=dracula" alt="renataalbq"/>
