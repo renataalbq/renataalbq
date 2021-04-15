@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalbq&hide=html&layout=compact&theme=dracula" />
-  <img width="405px" src="https://github-readme-stats.vercel.app/api?username=renataalbq&show_icons=true&theme=dracula" alt="renataalbq" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalbq&hide=html&layout=compact&theme=dracula&hide_border=true" />
+  <img width="405px" src="https://github-readme-stats.vercel.app/api?username=renataalbq&show_icons=true&theme=dracula&hide_border=true" alt="renataalbq" />
 </p>
