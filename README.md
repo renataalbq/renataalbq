@@ -18,5 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=renataalbq&theme=dracula" alt="renataalbq"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalbq&theme=dracula" alt="renataalbq"/>
+<table width="100%">
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=renataalbq&theme=dracula" alt="renataalbq"/>
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalbq&layout=compact&theme=dracula" alt="renataalbq"/>
+    </td>
+  </tr>
+</table>
