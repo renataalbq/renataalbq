@@ -1,6 +1,8 @@
 ### _hi everyone! 🤪
+
+![1eafbb99-3ff7-4c60-bf4b-8ee0ca9970a3 (1)](https://github.com/user-attachments/assets/bc6c3190-0477-4b78-8135-8310b72d0875)
+
 #### I'm Renata Albuquerque. I'm a mobile and front-end developer.
-Currently, I'm working as a Mobile Developer Jr. at Ploomes, using React Native.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renataalbq/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/renata.albqrq/)
